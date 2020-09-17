@@ -1,3 +1,4 @@
+# fantrax_auto
 
 sudo apt-get install firefox
 
@@ -8,4 +9,3 @@ tar xvzf geckodriver-v0.27.0-linux64.tar.gz
 mv geckodriver ~/.local/bin
 
 export PATH=$PATH:/home/vagrant/.local/bin
-# fantrax_auto
